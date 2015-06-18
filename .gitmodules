@@ -1,4 +1,4 @@
 [submodule "sparted/www"]
 	path = sparted/www
 	url = https://github.com/Kallikrein/www.git
-	branch = master
+	branch = dev
