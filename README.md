@@ -1,6 +1,9 @@
 # spartedV2-App
 
 
+### Installation :
+```git clone --recursive https://github.com/Kallikrein/spartedV2-App.git```
+
 ### Initialization  
 Repository was initialised with the following parameters :
 
