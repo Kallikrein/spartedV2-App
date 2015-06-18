@@ -1,5 +1,12 @@
-# gradle folder
-gradle
 # built application files
 *.apk
 *.ap_
+
+# gradle folder
+gradle
+
+# platform folders
+platforms
+
+# plugin folders
+plugins
